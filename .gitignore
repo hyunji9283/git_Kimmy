@@ -1,0 +1,7 @@
+secrets.yml
+
+.env
+
+logs/
+
+*.c     #확장자 c로 끝나는 경우 배제 
